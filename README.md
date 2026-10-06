@@ -15,6 +15,3 @@ My work focuses on building reliable, production-ready software, with a strong e
 ## Experience & Focus
 * **Backend & Embedded Engineering:** Previously developed Python-based telemetry pipelines and web applications for battery energy storage systems.
 * **Ongoing Development:** Currently working on system programming concepts using Rust, and developing educational tools for C programming and retro game development. 
-
-## Links
-* [GitHub](https://github.com/Dani-0TB)
