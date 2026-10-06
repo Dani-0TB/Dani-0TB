@@ -1,17 +1,28 @@
 # Dani Ocaranza
 
-Software Engineer specializing in backend architecture, embedded systems, and web development. Originally from Chile, currently based in Bielefeld, Germany. 
+Software Engineer | Bielefeld, Germany
 
-## About
-My work focuses on building reliable, production-ready software, with a strong emphasis on systems architecture and time-series data processing. I have a background in developing telemetry monitoring pipelines, energy management systems, and full-stack web applications. 
+Software Engineer with a Professional Degree in Informatics Engineering. I specialize in bridging web technologies, real-time data pipelines, and embedded systems, with a strong foundation in database design, REST APIs, and algorithmic efficiency.
 
 ## Technical Stack
-* **Languages:** Python, C, C++, C#
-* **Web & Frameworks:** ASP.NET Core
-* **Tools & Infrastructure:** Docker, InfluxDB
-* **Protocols:** MQTT, Modbus, CAN Bus
-* **Environment:** Arch Linux, Neovim
 
-## Experience & Focus
-* **Backend & Embedded Engineering:** Previously developed Python-based telemetry pipelines and web applications for battery energy storage systems.
-* **Ongoing Development:** Currently working on system programming concepts using Rust, and developing educational tools for C programming and retro game development. 
+* **Backend & Systems:** C#, ASP.NET Core, Node.js, Python, C
+* **Frontend:** JavaScript/TypeScript, React, Vue.js, Vite
+* **Data & IoT:** InfluxDB, MQTT, Relational DBMS (Oracle, MySQL, SQLite3)
+* **Infrastructure & Cloud:** Docker, Linux Administration, Git Flow, GCP
+
+## Highlighted Experience
+
+* **YUZZ - Software Engineer (Embedded Systems):** Architected an ASP.NET Core backend for real-time BESS configuration and engineered an end-to-end IoT telemetry pipeline using Docker Compose, MQTT, Telegraf, and InfluxDB. Authored C++ communication layers for firmware and maintained a Python-based Energy Management System.
+* **Duoc UC - Full Stack Developer & Technical Lead:** Developed a custom Vue.js/Node.js CMS, engineered an interactive React campus map, and led a video game development track.
+
+## Current Focus
+
+* Advancing systems architecture and backend development concepts via Boot.dev.
+* Job Hunting for a new challenge in Germany
+* Learning German
+
+## Connect
+
+* [LinkedIn](https://linkedin.com/in/danny0)
+* [Email](mailto:docaranzan@proton.me)
